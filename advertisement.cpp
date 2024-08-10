@@ -171,7 +171,7 @@ const char *AdvertisementPlugin::GetLicense()
 
 const char *AdvertisementPlugin::GetVersion()
 {
-	return "1.2";
+	return "1.2.1";
 }
 
 const char *AdvertisementPlugin::GetDate()
